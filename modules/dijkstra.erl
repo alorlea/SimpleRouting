@@ -1,4 +1,6 @@
-%%Modified by: Alberto
+%% Modified by: Alberto Lorente Leal, 
+%% albll@kth.se
+%% a.lorenteleal@gmail.com
 
 -module(dijkstra).
 
