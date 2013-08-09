@@ -1,4 +1,6 @@
-%% Modified by: alberto
+%% Modified by: Alberto Lorente Leal, 
+%% albll@kth.se
+%% a.lorenteleal@gmail.com
 %% Created: 09/09/2011
 %% Description: TODO: Add description to intf
 
