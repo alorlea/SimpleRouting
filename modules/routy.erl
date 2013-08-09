@@ -1,6 +1,9 @@
-%% Author: alberto
+%% Author: Alberto Lorente Leal, 
+%% albll@kth.se
+%% a.lorenteleal@gmail.com
 %% Created: 12/09/2011
-%% Description: TODO: Add description to routy
+%% Description: Routing module that contains
+%% the logic of a router using Dijkstra.
 -module(routy).
 
 -export([start/1, stop/1, init/1]).
