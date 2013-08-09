@@ -2,7 +2,7 @@
 %% albll@kth.se
 %% a.lorenteleal@gmail.com
 %% Created: 09/09/2011
-%% Description: TODO: Add description to intf
+%% Description: network interface
 
 -module(intf).
 
